@@ -1,7 +1,7 @@
 ## Welcome! 👾
 
 <p align = "center">
-  <img src="https://github.com/MateusFerroAntunesdeOliveira/MyFolder/blob/main/Images_to_GitHub/profile_com_fundo_e_contato_2.png" width = "975"/>
+  <img src="https://github.com/MateusFerroAntunesdeOliveira/MyFolder/blob/main/Images_to_GitHub/profile_com_fundo_e_contato_2.png" width = "950"/>
 </p>
 
 <h4 align = "center"> 
