@@ -17,7 +17,7 @@
   <img height = "210" align = "center" src = "https://github-readme-stats.vercel.app/api?username=MateusFerroAntunesdeOliveira&show_icons=true&theme=radical"/>
 </a>
 <a href="https://github.com/MateusFerroAntunesdeOliveira/github-readme-stats">
-  <img height = "210" align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFerroAntunesdeOliveira&langs_count=3&show_icons=true&theme=radical" />
+  <img height = "210" align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFerroAntunesdeOliveira&langs_count=4&show_icons=true&theme=radical" />
 </a>
 
 <h5 align = "end"> 
