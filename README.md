@@ -17,9 +17,9 @@
 
 <!-- Some statuses that I have -->
 <h2> Some statuses that I have </h2>
-<a href="https://github.com/MateusFerroAntunesdeOliveira/github-readme-stats" target="_blank">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=MateusFerroAntunesdeOliveira&custom_title=My GitHub's Status&count_private=true&show_icons=true&theme=tokyonight"/>
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFerroAntunesdeOliveira&custom_title=My Most Used Languages&layout=compact&langs_count=4&show_icons=true&hide=JavaScript&theme=tokyonight"/>
+<a href = "https://github.com/MateusFerroAntunesdeOliveira/github-readme-stats" target="_blank">
+  <img height = "150" align = "center" src = "https://github-readme-stats.vercel.app/api?username=MateusFerroAntunesdeOliveira&custom_title=My GitHub's Status&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img height = "150" align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFerroAntunesdeOliveira&custom_title=My Most Used Languages&layout=compact&langs_count=4&show_icons=true&hide=JavaScript&theme=tokyonight"/>
 </a>
 
 <!-- CONTACT -->
