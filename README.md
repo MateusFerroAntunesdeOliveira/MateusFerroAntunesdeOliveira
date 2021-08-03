@@ -24,10 +24,16 @@
 
 <!-- CONTACT -->
 <h2 align = "end"> Means of contact </h2>
-<h4 align = "end"> 
+<h4 align = "end">
   Phone contact: +55 041 99750-4454 <br> <br>
-  You can send me a email: mateus.ferro.2001@gmail.com <br> <br>
+  You can contact me via e-mail, Linkedin, or Whatsapp simply by clicking on the boxes below <br> <br>
+  <a href = "mailto:mateus.ferro.2001@gmail.com"><img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank"></a> <a href = "https://www.linkedin.com/in/mateus-ferro-antunes-de-oliveira-a060691b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "http://api.whatsapp.com/send?phone=+5541997504454"><img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target = "_blank"></a> <br> <br>
 </h4> 
+
+<!-- <div>
+  <a href = "mailto:mateus.ferro.2001@gmail.com"><img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank"></a>
+  ![Snake animation](https://github.com/rafaballerini/MateusFerroAntunesdeOliveira/blob/output/github-contribution-grid-snake.svg)
+</div> -->
 
 <!--
 **MateusFerroAntunesdeOliveira/MateusFerroAntunesdeOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
