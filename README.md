@@ -1,7 +1,7 @@
 <!-- WELCOME AND IMAGE -->
 <h2> Hello! Welcome to my GitHub </h2>
 <p align = "center">
-  <img src="https://github.com/MateusFerroAntunesdeOliveira/MyFolder/blob/main/Images_to_GitHub/profile_com_fundo_e_contato_nova.png"/>
+  <img src = "https://github.com/MateusFerroAntunesdeOliveira/MyFolder/blob/main/Images_to_GitHub/profile_fundo_nova.png"/>
 </p>
 
 <!-- Some little things about me -->
