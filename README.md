@@ -4,7 +4,7 @@
   <img src = "https://github.com/MateusFerroAntunesdeOliveira/MyFolder/blob/main/Images_to_GitHub/profile_fundo_nova.png"/>
 </p>
 
-<!-- Some little things about me -->
+<!-- Little things about me -->
 <h2> Things about me </h2>
 <h4 align = "center"> 
   I am a Computer Engineering student, in the 6th period 🎓 at the Pontifical Catholic University of Paraná (PUC-PR) <br> <br>
@@ -15,7 +15,7 @@
   </ul>
 </h4>
 
-<!-- Some statuses that I have -->
+<!-- Some status -->
 <h2 align = "middle"> Status </h2>
 <a href = "https://github.com/MateusFerroAntunesdeOliveira/github-readme-stats" target="_blank">
   <img height = "160" src = "https://github-readme-stats.vercel.app/api?username=MateusFerroAntunesdeOliveira&custom_title=My GitHub's Status&count_private=true&show_icons=true&theme=tokyonight"/>
