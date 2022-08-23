@@ -7,11 +7,10 @@
 <!-- Little things about me -->
 <h2> Things about me </h2>
 <h4 align = "center"> 
-  I am a Computer Engineering student, in the 7th period 🎓 at the Pontifical Catholic University of Paraná (PUC-PR) <br> <br>
+  I am a Computer Engineering student, in the 8th period 🎓 at the Pontifical Catholic University of Paraná (PUC-PR) <br> <br>
   <ul>
-    <li> I am an IT intern at Siemens AG in Brazil 💻 <br> <br> </li>
+    <li> I am a System Analyst at Siemens AG in Brazil 💻 <br> <br> </li>
     <li> Also, I'm working on the generation of 3D thermal models for scientific research at the university 📄 <br> <br> </li>
-    <li> And in parallel I am working on some flutter apps 🎲 <br> <br> </li>
   </ul>
 </h4>
 
