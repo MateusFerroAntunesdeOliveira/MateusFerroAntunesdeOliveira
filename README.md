@@ -17,8 +17,8 @@
 <!-- Some status -->
 <h2 align = "middle"> Status </h2>
 <a href = "https://github.com/MateusFerroAntunesdeOliveira/github-readme-stats" target="_blank">
-  <img height = "160" src = "https://github-readme-stats.vercel.app/api?username=MateusFerroAntunesdeOliveira&custom_title=My GitHub's Status&count_private=true&show_icons=true&theme=tokyonight"/>
-  <img height = "160" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFerroAntunesdeOliveira&custom_title=My Most Used Languages&layout=compact&langs_count=4&show_icons=true&hide=JavaScript&theme=tokyonight"/>
+  <img align="center" img height = "160" src = "https://github-readme-stats.vercel.app/api?username=MateusFerroAntunesdeOliveira&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img align="center" img height = "160" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFerroAntunesdeOliveira&layout=compact&langs_count=4&show_icons=true&hide=JavaScript&theme=tokyonight"/>
 </a>
 
 <!-- CONTACT -->
