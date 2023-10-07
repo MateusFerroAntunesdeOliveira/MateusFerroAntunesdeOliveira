@@ -7,7 +7,7 @@
 <!-- Little things about me -->
 <h2> Things about me </h2>
 <h4 align = "center"> 
-  I am a Computer Engineering student, in the 9th period 🎓 at the Pontifical Catholic University of Paraná (PUC-PR) <br> <br>
+  I am a Computer Engineering student, in the 10th period 🎓 at the Pontifical Catholic University of Paraná (PUC-PR) <br> <br>
   <ul>
     <li> I am a Scrum Master and Systems Development Analyst at Siemens AG in Brazil 💻 <br> <br> </li>
   </ul>
