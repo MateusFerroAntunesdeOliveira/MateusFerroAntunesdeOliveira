@@ -9,7 +9,7 @@
 <h4 align = "center"> 
   I am a Computer Engineer graduated 🎓 from Pontifical Catholic University of Paraná (PUCPR) <br> <br>
   My grade point average in college was 3.7/4.0 or 9.2/10.0 <br> <br>
-  I am a Scrum Master and Systems Development Analyst at Siemens AG in Brazil 💻 <br> <br>
+  I am Systems Development Analyst at Radek Systems 💻 <br> <br>
 </h4>
 
 <!-- Some status -->
