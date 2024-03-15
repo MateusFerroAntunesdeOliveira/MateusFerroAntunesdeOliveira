@@ -23,7 +23,7 @@
 <h2 align = "end"> Means of contact </h2>
 <h4 align = "end">
   You can contact me via e-mail, Linkedin, or Whatsapp simply by clicking on the boxes below <br> <br>
-  <a href = "mailto:mateus.ferro.2001@gmail.com"><img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank"></a> <a href = "https://www.linkedin.com/in/mateus-ferro-antunes-de-oliveira-a060691b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "http://api.whatsapp.com/send?phone=+5541997504454"><img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target = "_blank"></a> <br> <br> 
+  <a href = "mailto:mateus.ferro.2001@gmail.com"><img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank"></a> <a href = "https://www.linkedin.com/in/mateus-ferro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "http://api.whatsapp.com/send?phone=+5541997504454"><img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target = "_blank"></a> <br> <br> 
 </h4> 
 
 <!--
